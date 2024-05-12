@@ -8,6 +8,11 @@ https://github.com/musman12529/Sword-Combat-Game-Unreal-Engine-/assets/114633620
 
 Welcome to our action-packed sword combat game built in Unreal Engine! Engage in thrilling sword fights with AI-controlled Zombies and experience dynamic combat, immersive animations, and strategic gameplay elements.
 
+## Team
+
+- Mian Usama Ijaz 
+- Muhammad Usman
+  
 ## Features
 
 ### Sword Combat Interaction
